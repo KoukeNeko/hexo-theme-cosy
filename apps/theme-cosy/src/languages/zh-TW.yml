@@ -1,0 +1,61 @@
+# tip
+tip-left-aside-visible: 顯示 / 隱藏 左側導覽
+tip-status-done: 完成
+tip-status-default: 全部
+tip-status-todo: 計畫
+tip-status-doing: 進行
+tip-status-other: 其他
+tip-move-today: 移動到今天
+tip-select-year: 選擇年份
+tip-home: 首頁
+tip-hide-catelog: 隱藏目錄
+tip-catalog-visible: 顯示 / 隱藏 文章目錄
+
+# text
+text-preference: 偏好
+text-archives: 歸檔
+text-cosy-roadmap: 路線圖
+text-cosy-resume: 簡歷
+text-category: 分類
+text-search-placeholder: 搜尋
+text-education: 教育經歷
+text-workExp: 工作經歷
+text-project: 項目
+text-portfolio: 作品集
+text-filter: 篩選
+text-post-count-prev: 上一頁
+text-post-count-next: 下一頁
+text-post-top: 置頂
+text-post-create: 建立於
+text-post-last-update: 上次更新
+text-catalog: 目錄
+text-preference-1: 管理您的選項
+text-preference-2: 外觀
+text-preference-3: 字體大小
+text-preference-4: 全局字體大小
+text-preference-5: 語言
+text-preference-6: 全局介面顯示語言
+text-preference-7: 主題
+text-preference-8: 主題樣式
+text-preference-9: 選擇網站主題的樣式
+text-preference-10: 主題色
+text-preference-11: 參數用於控制全域主題顏色
+text-preference-12: 社區
+text-preference-13: 回饋
+text-preference-14: 非常有幸被您發現，如果您對主題有任何建議、回饋，來提 issue。
+text-select: 選擇
+text-move: 移動
+text-esc: 退出
+
+January: 一月
+February: 二月
+March: 三月
+April: 四月
+May: 五月
+June: 六月
+July: 七月
+August: 八月
+September: 九月
+October: 十月
+November: 十一月
+December: 十二月
